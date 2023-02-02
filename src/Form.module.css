@@ -1,0 +1,32 @@
+.container{
+    display:flex;
+    justify-content: center;
+}
+form{
+    width: 50%;
+}
+.radioBtn{
+    display: flex;
+    justify-content: space-evenly;
+}
+label{
+    display: flex;
+}
+.radioCont{
+    display: flex;
+}
+form div input{
+    background: black;
+    color: white;
+}
+.error{
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: .875em;
+    color: red;
+}
+
+.form-control{
+    background: black;
+    color: white;
+}
